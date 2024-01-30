@@ -9,3 +9,5 @@ Inside the 'Matlab' folder:
 Inside the 'Simulink' folder:
 - Modulation_Example_GMSK_Simulink.slx: Analyzes the differences between FSK and GFSK modulations using signals generated in Matlab.
 - GMSK_Rayleigh.slx and GMSK_Rician.slx: Simulate a BLE transmission over an AWGN channel, differing only in the channel fading model used.
+
+This project was a joint effort with my colleague Manuele Montrasio, we worked together on developing code, analyzing data, and generating visual aids to support our results.
